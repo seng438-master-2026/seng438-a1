@@ -34,7 +34,7 @@ In this lab, two students in each group will work together in "pair testing." Th
 
 # Group Work
 
-In this lab, each group will consist of 4 members. Two members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
+In this lab, each group will consist of 5 members. Two members will work together in a pair testing method to complete the lab report. After the pair testing, both pairs will combine their reports and submit one final lab report.
 
 # Submission Guidelines
 All lab reports in this course should be submitted on GitHub. It is important to follow the suggested format when submitting your lab report on D2L and on GitHub.
@@ -159,12 +159,12 @@ Keep in mind that this does not need to necessarily be the best plan, as long as
 
 ## Regression Testing (Verification of Defect Fixes)
 
-This section is to be performed as a group. The defects reported in the twoprevious stages of testing can be divided among the 
+This section is to be performed as a group. The defects reported in the two previous stages of testing can be divided among the 
 group members and can beretested individually.
 
 1.  Download the updated version (version 1.1) of the ATM simulation system from blackboard. This version of the system has been partially fixed by imaginary developers based on the defect reports previously existing.
 
-2.  Add an additional version (1.1) for your product in your bug tracking system, by simply using the same procedure for reporting the issues in version section writhe but version 1.1 (the issues for previous version should be marked as 1.0).
+2.  Add an additional version (1.1) for your product in your bug tracking system, by simply using the same procedure for reporting the issues in version section write but version 1.1 (the issues for previous version should be marked as 1.0).
 
 3.  Perform a search in your bug tracking tool for all defects reported by your group for version 1.0 of the ATM system product.
 
